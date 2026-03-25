@@ -1,4 +1,4 @@
-# 🧠 Guri's AI Engineering Journey
+# 🧠 Gurveer's AI Engineering Journey
 
 > *"Every expert was once a beginner."*
 > Starting from zero. Building towards everything.
@@ -28,6 +28,7 @@ Every folder = a new day. Every day = one step closer.
 | Day | Topic | Folder |
 |-----|-------|--------|
 | 01 | Setup + FastAPI Basics | [DAY-01 - Setup + FastAPI Start](./DAY-01%20-%20Setup%20+%20FastAPI%20Start/) |
+| 02 | HTTP Methods — GET, POST, PUT, DELETE | [DAY-02 - FastAPI Basics](./DAY-02%20-%20FastAPI%20Basics/) |
 
 > *More days coming soon... the journey has just begun! 🚀*
 
@@ -49,9 +50,12 @@ Every folder = a new day. Every day = one step closer.
 
 ```
 AI/
-├── DAY-01 - Setup + FastAPI Start/   # First day — FastAPI basics
+├── DAY-01 - Setup + FastAPI Start/   # Day 1 — FastAPI setup & first routes
 │   ├── main.py
 │   └── Day-01.md
+├── DAY-02 - FastAPI Basics/          # Day 2 — HTTP methods (GET, POST, PUT, DELETE)
+│   ├── main.py
+│   └── Day-02.md
 ├── venv/                              # Python virtual environment (not committed)
 ├── requirements.txt                   # Project dependencies
 ├── .gitignore
@@ -79,7 +83,7 @@ pip install -r requirements.txt
 
 ## 🙋 About Me
 
-Hi, I'm **Guri** — and I'm just getting started.
+Hi, I'm **Gurveer** — and I'm just getting started.
 
 I'm documenting this journey publicly so I stay accountable and so others starting out can learn alongside me. No experience needed. Just curiosity and consistency.
 
